@@ -11,7 +11,7 @@ El chatbot será integrado en la página web del centro y se apoyará en un sist
 
 - **[Javier Jiménez]** – Data Manager (Gestión de datos y JSON)
 - **[Daniel Rabadán]** – Frontend Developer (Interfaz web e integración)
-- **[Javier Navarro]** – QA & DevOps (Control de calidad, documentación y GitHub)
+- **[Javier Delfín]** – QA & DevOps (Control de calidad, documentación y GitHub)
 
 ---
 
