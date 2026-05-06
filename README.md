@@ -9,9 +9,9 @@ El chatbot será integrado en la página web del centro y se apoyará en un sist
 
 ## Integrantes del Equipo
 
-- **[Nombre 1]** – Data Manager (Gestión de datos y JSON)
-- **[Nombre 2]** – Frontend Developer (Interfaz web e integración)
-- **[Nombre 3]** – QA & DevOps (Control de calidad, documentación y GitHub)
+- **[Javier Jiménez]** – Data Manager (Gestión de datos y JSON)
+- **[Daniel Rabadán]** – Frontend Developer (Interfaz web e integración)
+- **[Javier Navarro]** – QA & DevOps (Control de calidad, documentación y GitHub)
 
 ---
 
