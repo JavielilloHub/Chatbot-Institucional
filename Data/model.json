@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "IES Aljada Chatbot Data",
+  "type": "object",
+  "properties": {
+    "faq": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "section": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "intent": {
+            "type": "string"
+          },
+          "question": {
+            "type": "string"
+          },
+          "answer": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "section",
+          "role",
+          "intent",
+          "question",
+          "answer"
+        ]
+      }
+    }
+  },
+  "required": ["faq"]
+}
