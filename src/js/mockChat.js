@@ -1,13 +1,13 @@
 const mockResponses = {
 
     horarios:
-        "El horario del centro es de 8:00 a 14:30 (MAÑANA) - de 16:00 a 20:00 (TARDE)" ,
+        "El horario del centro es de 8:25 a 14:25 (MAÑANA) - de 15:50 a 21:40 (TARDE)" ,
 
     becas:
         "Puedes solicitar las becas desde la página oficial del ministerio de educación.",
 
     secretaria:
-        "La secretaría se encuentra en la entrada del instituto, a mano izquierda al entrar por la puerta principal.",
+        "La secretaría se encuentra en la entrada principal del instituto, a mano izquierda",
 
     contacto:
         "Puedes contactar mediante teléfono o correo electrónico oficial del centro ===> Tlf: 968301352 | Correo: 30009010@murciaeduca.es",
