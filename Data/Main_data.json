@@ -1,0 +1,84 @@
+{
+  "faq": [
+{
+      "id": 1,
+      "section": "Información General",
+      "role": "Futuro Alumno",
+      "intent": "Informarse",
+      "question": "¿Qué asignaturas suelen resultar más difíciles y por qué?",
+      "answer": "Las asignaturas más difíciles suelen ser contabilidad o fiscalidad porque requieren práctica constante y comprensión de normas."
+    },
+    {
+      "id": 2,
+      "section": "Información General",
+      "role": "Futuro Alumno",
+      "intent": "Compatibilizar estudios",
+      "question": "¿Se puede compatibilizar el ciclo con trabajo?",
+      "answer": "Sí, aunque requiere organización y planificación del tiempo."
+    },
+    {
+      "id": 3,
+      "section": "Secretaría",
+      "role": "Alumno",
+      "intent": "Consultar horario",
+      "question": "¿Cuál es el horario de secretaría?",
+      "answer": "La secretaría atiende normalmente de lunes a viernes de 9:00 a 14:00."
+    },
+    {
+      "id": 4,
+      "section": "Becas",
+      "role": "Alumno",
+      "intent": "Solicitar ayuda",
+      "question": "¿Cómo puedo solicitar una beca?",
+      "answer": "Las becas pueden solicitarse desde la sede electrónica del Ministerio de Educación."
+    },
+    {
+      "id": 5,
+      "section": "Matrícula",
+      "role": "Futuro Alumno",
+      "intent": "Realizar matrícula",
+      "question": "¿Qué documentación necesito para matricularme?",
+      "answer": "Normalmente se requiere DNI, expediente académico y formulario de matrícula."
+    },
+    {
+      "id": 6,
+      "section": "Horarios",
+      "role": "Alumno",
+      "intent": "Consultar horarios",
+      "question": "¿Dónde puedo consultar los horarios?",
+      "answer": "Los horarios suelen publicarse en la web oficial del instituto y en los tablones informativos."
+    },
+    {
+      "id": 7,
+      "section": "FCT",
+      "role": "Alumno",
+      "intent": "Información prácticas",
+      "question": "¿Qué son las FCT?",
+      "answer": "Las FCT son las prácticas formativas que se realizan en empresas durante el ciclo formativo."
+    },
+    {
+      "id": 8,
+      "section": "Transporte",
+      "role": "Alumno",
+      "intent": "Consultar transporte",
+      "question": "¿Hay transporte escolar disponible?",
+      "answer": "La disponibilidad del transporte depende de la ruta y de la organización del centro educativo."
+    },
+    {
+      "id": 9,
+      "section": "Erasmus",
+      "role": "Alumno",
+      "intent": "Movilidad internacional",
+      "question": "¿El centro participa en programas Erasmus?",
+      "answer": "Sí, algunos ciclos formativos participan en programas Erasmus de movilidad internacional."
+    },
+    {
+      "id": 10,
+      "section": "Contacto",
+      "role": "Usuario",
+      "intent": "Contactar",
+      "question": "¿Cómo puedo contactar con el instituto?",
+      "answer": "Puedes contactar mediante teléfono, correo electrónico o desde la página web oficial del centro."
+    }
+  ]
+}
