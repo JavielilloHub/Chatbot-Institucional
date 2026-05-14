@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente Virtual IES Aljada</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="chatbot-wrapper">
+
+        <header class="header">
+            <h1>Asistente Virtual IES Aljada</h1>
+            <p>Consulta información sobre horarios, becas y secretaría</p>
+        </header>
+
+        <section class="welcome-section">
+            <div class="bot-message">
+                👋 Hola, soy el asistente virtual del IES Aljada.
+                ¿En qué puedo ayudarte hoy?
+            </div>
+        </section>
+
+        <section class="quick-actions">
+            <button class="quick-btn">Horarios</button>
+            <button class="quick-btn">Becas</button>
+            <button class="quick-btn">Secretaría</button>
+            <button class="quick-btn">Contacto</button>
+        </section>
+
+        <section class="chat-container" id="chatContainer">
+
+        </section>
+
+        <section class="chat-input-section">
+            <input
+                type="text"
+                id="userInput"
+                placeholder="Escribe tu pregunta..."
+            >
+
+            <button id="sendButton">Enviar</button>
+        </section>
+
+        <footer class="footer">
+            <p>Proyecto ASIR - Chatbot Institucional</p>
+        </footer>
+
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/mockChat.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>
